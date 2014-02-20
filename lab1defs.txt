@@ -1,0 +1,40 @@
+mkdir:
+Står for "make directory" og er en kommando som blir utført for å opprette en ny mappe 
+
+cd: 
+Betyr "Change directory", og ved å utføre denne kommandoen bytter man til en annen mappe
+
+ls:
+Betyr "list directory", og er en kommando som enkelt og greit lister opp filer og kataloger som
+befinner seg i den katalogen du jobber i for øyeblikket. 
+
+ls-l:
+Lister opp alle filene i den angitte mappen/katalogen og i alle underkataloger, 
+og opplyser om flere data enn det ls- kommandoen gjør. 
+Man får opp navn på filer i den aktuelle mappen, tillatelser, størrelser på filene, 
+dato for siste endring, og man får opp antall underordnene mapper i de mappene/katalogene som er opplistet.
+
+ls-la:
+Dette er en kommando som lister opp ALLE filer og underordnede mapper i en mappe, både synlige og usynlige.
+De to siste bokstavene i kommandoen "la" betyr at den lister opp ALT, med DETALJER 
+
+pwd:
+Står for "print working directory", og viser deg hvor i mappehierarkiet du befinner deg.
+Eks i terminal: # pwd
+		/root/Documents/uia/is105 (hvor jeg befinner meg akkurat nå)
+
+pipes and redirection:
+Tegnet "|" blir angitt som pipe-symbolet("pipe"). Pipes lar deg "føre outputet fra en kommando
+til en annen kommando hvor den vil bli brukt som input. 
+Når det kommer til "Redirection", er symbolet ">"(større enn) mer brukt
+
+grep:
+Denne kommandoen filtrerer ut tekst med bestemte søkeord.
+
+cat:
+Kommando som viser tekstfiler, og åpner dem direkte i terminalvinduet. 
+
+less:
+Blir brukt for å se/lese en fil, med et skjermbilde av gangen. Denne kommandoen ligner på "more", 
+men er mer funksjonell da man både kan bla framover og bakover gjennom filen. 
+
