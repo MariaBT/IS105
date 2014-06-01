@@ -1,0 +1,30 @@
+###Regulært uttrykk (regular expression)###
+Et regulært uttrykk er en sekvens av bokstaver som danner et søkemønster. 
+Slike uttrykk brukes ofte i mange tekstbehandlere for å søke etter og manipulere tekst basert på gitte mønstre. 
+
+Eksempel:
+Under til venstre står det regulære uttrykket, mens til høyre står det hvilke tegn som vil matche uttrykket:
+
+[^abc]      |        Alle typer tegn, utenom a, b, eller c
+
+
+###Import(i Python)###
+Dette er en kommando som blir brukt til å importere kode fra en "modul" til en annen. 
+Python-kode i en modul får nemlig tilgang til koden i en annen modul via prosessen som kalles "import"
+
+
+###"Skript"-språk###
+Skriptspråk er en type programmeringsspråk som tolkes og utføres av separate programmer. 
+Noen av de mest kjente skript-språkene er Javascript, PHP, Perl, Python, Ruby og ASP
+
+
+###Perl###
+Perl er et programmeringspråk, ofte referert som "Practical Extraction and Reporting Language"
+Det ble laget med formål om å være et praktisk språk for å hente ut informasjon fra tekstfiler,
+for så å nyttegjøre seg av denne informasjonen. 
+
+
+###Bash###
+Bash er et "Unix shell" og fungerer som en erstatter til "Bourne shell"(som ikke er gratis). 
+Bash er en kommando-prosess som feks kan bli kjørt i et tekstvindu, 
+som da lar brukeren taste inn kommandoer som igjen utfører/resulterer i en handling/er. 
