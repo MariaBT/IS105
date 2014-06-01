@@ -1,0 +1,16 @@
+###Operatør prioritet i python###
+Forklaringen ligger litt i ordene. Operatør prioritet går enkelt og greit ut på hvilke 
+operasjoner som blir utført før andre. 
+Hvis man feks har et uttrykk med + og * (vi har lært at multiplikasjon alltid skal utføres før pluss), 
+så betyr dette at gange-operatøren har større prioritet enn pluss-operatøren. 
+
+
+###One's complement og two's complement###
+Dette går ut på å endre bits fra 0 til 1 og omvendt (1 til 0)
+One's complement og "two's complement" er måter å representere  negative tall i binær form. 
+
+Eksempel:
+desimal verdi: 9
+binær verdi: 01001
+one's complement: 10110 (motsatte tall av binær)
+two's complement: 10111 (samme som "one's complement", men et 1-tall blir lagt til på slutten)
