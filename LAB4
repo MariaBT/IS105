@@ -1,0 +1,33 @@
+### API ###
+API står for "Application Programming Interface" (applikasjonsprogrammeringsgrensesnitt) 
+og er et grensesnitt som brukes i en programvare. API beskriver de funksjonene/metodene 
+som feks en programvare eller et bibliotek kan kommunisere med. 
+
+### IDE ###
+står for "Intergraded Development Environment", og er et program som skal gjøre 
+det enklere å programmere. Programmet består typisk av en kode-editor, kompilator, debugger
+og har et grafisk brukergrensesnitt(=enklere)
+
+### ps ###
+Betyr "Post Script" og er et programmeringsspråk. 
+
+### top ###
+
+### df ###
+df er en kommando som står for "disk filesystem". Denne kommandoen blir brukt til å få oversikt over tilgjengelig og brukt diskplass på filsystemet (på Linux)
+
+### kill ###
+En kommando som kan brukes til å avslutte prosesser. (feks en prosess som låser seg)
+
+### netstat ###
+En kommando som blir brukt til å vise  detaljert informasjon om hvordan din PC
+kommuniserer med andre PCer eller nettverksenheter. (står for network statistics)
+
+### ifconfig ###
+Står for interface Configuration. Er en kommando som brukes til konfigurasjon av nettverksgrensesnitt
+
+### who ###
+En kommando som forteller:
+* Tidspunkt for forrige systeoppstart
+*Liste over innloggede brukere
+*Gjeldende kjørenivå ol. 
